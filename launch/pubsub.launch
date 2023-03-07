@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--안됨 일단 보류-->
+<launch>
+    <node pkg="pubsub_test" type="publisher_test" name="publisher_test" />
+    <node pkg="pubsub_test" type="subscriber_test" name="subscriber_test" />
+<!--https://qspblog.com/blog/ros-roslaunch-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-2%ED%83%84-launch%ED%8C%8C%EC%9D%BC%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EC%84%9C%EB%B2%84-->
+</launch>
